@@ -1,0 +1,17 @@
+//sensor pins
+const int pin_1 = 36;//ADC1
+const int pin_2 = 39;
+const int pin_3 = 32;
+const int pin_4 = 33;
+const int pin_5 = 34;
+const int pin_6 = 35;
+
+const int pin_7 = 4;//ADC2
+const int pin_8 = 26;
+const int pin_9 = 2;
+const int pin_10 = 15;
+const int pin_11 = 13;
+const int pin_12 = 12;
+const int pin_13 = 14;
+const int pin_14 = 27;
+const int pin_15 = 25;

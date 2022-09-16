@@ -1,0 +1,28 @@
+Materials Plants
+
+Wemos D1 Mini:
+https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp8266/wemos-d1-mini-esp8266-nodemcu-4m-wifi-development-board/
+
+Soil moisture sensor:
+https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-components/temperature/capacitive-soil-moisture-sensor-module-for-arduino/
+
+18650 charger module:
+https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/modules/charging/tp4056-18650-5v-micro-usb-charger-module-with-charge-protection/
+
+18650 battery holder: https://www.hellasdigital.gr/electronics/prototyping/cases/1x18650-battery-holder-without-dc-connector/
+
+1N4007 diode:
+https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/components-and-ic/1n4007-do-41-rectifier-diode-1a-1000v/
+
+5v solar panel: https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/modules/solar/5v-0.5w-mini-solar-panel-100x50mm
+
+1-5v ->5v USB: 
+https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/buck-and-boost-converters/boost-converter-step-up-dc-dc/dc-dc-0.9v-5v-to-5v-600ma-voltage-usb-boost-converter-module/
+
+18650 batteries: 
+https://www.devobox.com/el/18650/411-samsung-icr-18650-22p-2200mah-36v.html?skr_prm=WyIxZWZmMmUwNC1iNDYyLTQxN2ItOTM2Yy0zNGFkNjgxYWI0MzUiLDE1NjU5NDMzMjk0NjYseyJhcHBfdHlwZSI6IndlYiIsInRhZ3MiOiIifV0
+
+Overall: 22,02€
+
+Reference:
+https://www.electronicshub.org/solar-battery-charger-for-18650/
