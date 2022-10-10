@@ -1,8 +1,5 @@
 Materials Plants
 
-Wemos D1 Mini:
-https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/esp8266/wemos-d1-mini-esp8266-nodemcu-4m-wifi-development-board/
-
 Soil moisture sensor:
 https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/mcu-and-components/temperature/capacitive-soil-moisture-sensor-module-for-arduino/
 
@@ -23,6 +20,3 @@ https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/buck-and-boos
 https://www.devobox.com/el/18650/411-samsung-icr-18650-22p-2200mah-36v.html?skr_prm=WyIxZWZmMmUwNC1iNDYyLTQxN2ItOTM2Yy0zNGFkNjgxYWI0MzUiLDE1NjU5NDMzMjk0NjYseyJhcHBfdHlwZSI6IndlYiIsInRhZ3MiOiIifV0
 
 Overall: 22,02€
-
-Reference:
-https://www.electronicshub.org/solar-battery-charger-for-18650/
