@@ -70,8 +70,8 @@ const int wet = 2600;
 String api_key = "tk647vDfs2Kes";
 
 //sleep variables
-uint64_t big_sleep = 12;
-uint64_t hours_m_seconds = 3600000000;
+unsigned long long big_sleep = 12;
+unsigned long long hours_m_seconds = 3600000000;
 
 void setup() {
   pinMode(pin_transistor,OUTPUT);
