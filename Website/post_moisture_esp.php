@@ -3,15 +3,11 @@
 
 $servername = "localhost";
 
-// REPLACE with your Database name
 $dbname = "id19492879_pliamdb";
-// REPLACE with Database user
 $username = "id19492879_pliam";
-// REPLACE with Database user password
 $password = "Pli@m12112005";;
 
 // Keep this API Key value to be compatible with the ESP32 code 
-// If you change this value, the ESP32 sketch needs to match
 $api_key_value = "tk647vDfs2Kes";
 
 $api_key= $sensor1 = "";
